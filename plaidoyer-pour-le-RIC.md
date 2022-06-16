@@ -99,7 +99,7 @@ Partagez ce texte ou des vidéos sur le RIC, parlez du RIC avec vos proches, ave
 
 
 
-<div class="gap"></div>
+----
 
 
 
@@ -107,7 +107,7 @@ Partagez ce texte ou des vidéos sur le RIC, parlez du RIC avec vos proches, ave
 
 
 
-<div class="gap"></div>
+----
 
 
 
